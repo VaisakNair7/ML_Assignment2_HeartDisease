@@ -37,8 +37,8 @@ The dataset includes health, lifestyle, and demographic attributes that are know
 - **SkinCancer** — Whether the individual has had skin cancer.
 
 ### Dataset Usage
-- Training set → Model training  
-- Test set → Model evaluation  
+- Training set (~223k samples) → Model training  
+- Test set (~32k samples) → Model evaluation  
 
 ---
 
